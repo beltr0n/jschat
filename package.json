@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/beltr0n/jschat/issues"
   },
-  "homepage": "https://github.com/beltr0n/jschat#readme"
+  "homepage": "https://github.com/beltr0n/jschat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
