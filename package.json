@@ -1,0 +1,19 @@
+{
+  "name": "jschat",
+  "version": "1.0.0",
+  "description": "sample chat app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beltr0n/jschat.git"
+  },
+  "author": "Bert Ong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beltr0n/jschat/issues"
+  },
+  "homepage": "https://github.com/beltr0n/jschat#readme"
+}
